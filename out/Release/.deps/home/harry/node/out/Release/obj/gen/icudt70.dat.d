@@ -1,0 +1,1 @@
+cmd_/home/harry/node/out/Release/obj/gen/icudt70.dat := LD_LIBRARY_PATH=/home/harry/node/out/Release/lib.host:/home/harry/node/out/Release/lib.target:$$LD_LIBRARY_PATH; export LD_LIBRARY_PATH; cd ../tools/icu; mkdir -p /home/harry/node/out/Release/obj/gen; cp "/home/harry/node/out/Release/obj/gen/icudt70l.dat" "/home/harry/node/out/Release/obj/gen/icudt70.dat"

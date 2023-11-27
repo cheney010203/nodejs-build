@@ -1,0 +1,1 @@
+cmd_/home/harry/node/out/Release/obj.target/deps/googletest/libgtest_main.a := rm -f /home/harry/node/out/Release/obj.target/deps/googletest/libgtest_main.a && ar crsT /home/harry/node/out/Release/obj.target/deps/googletest/libgtest_main.a /home/harry/node/out/Release/obj.target/gtest_main/deps/googletest/src/gtest_main.o

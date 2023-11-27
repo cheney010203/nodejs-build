@@ -1,0 +1,3 @@
+#!/bin/sh
+set -x
+exec ./configure --dest-cpu=arm64 --dest-os=android --without-snapshot --openssl-no-asm --partly-static --with-intl=none --shared --cross-compiling
